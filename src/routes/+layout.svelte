@@ -1,7 +1,8 @@
 <script>
 	import "../assets/css/materialdesignicons.min.css";
 	import "../assets/scss/themes.scss";
-	import { Styles } from '@sveltestrap/sveltestrap';
+	import "../assets/css/style.css";
+	// import { Styles } from '@sveltestrap/sveltestrap';
 </script>
-<Styles />
+<!-- <Styles /> -->
 <slot />
